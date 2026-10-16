@@ -1,2 +1,0 @@
-# holygastronomia
-sistema contable gastronomico
